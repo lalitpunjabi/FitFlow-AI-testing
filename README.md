@@ -1,51 +1,46 @@
-# Fitness Tracking App
+# FitFlow AI 🏋️‍♂️
 
-## Overview
-This is a React-based fitness tracking application designed to help users manage their workouts, nutrition, hydration, sleep, reminders, and progress. It features a sleek UI, onboarding flow, and a customizable theme.
+A modern fitness and wellness tracking application built with React, TypeScript, and Tailwind CSS.
 
-## Features
-- **Onboarding Flow**: Guides new users through initial setup.
-- **Dashboard**: Provides an overview of key metrics.
-- **Workout Tracking**: Log and manage workout routines.
-- **Nutrition Management**: Track dietary intake.
-- **Calendar Integration**: Organize and plan workouts & meals.
-- **Water Intake Tracking**: Ensure proper hydration.
-- **Sleep Monitoring**: Keep track of sleep patterns.
-- **Reminders**: Set health and fitness-related reminders.
-- **Progress Tracking**: View past performance and improvements.
-- **Dark/Light Mode**: Toggle theme for a better user experience.
+## ✨ Features
 
-## Tech Stack
-- **Frontend**: React.js, React Router
-- **State Management**: Zustand
-- **UI Components**: Tailwind CSS
+- 🌓 Dark/Light Mode
+- 📊 Fitness Dashboard
+- 💪 Workout Tracking
+- 🥗 Nutrition Management
+- 📅 Calendar Integration
+- 💧 Water Tracking
+- 😴 Sleep Monitoring
+- ⏰ Reminders
+- 📈 Progress Analytics
+- ⚙️ Customizable Settings
 
-## Installation & Setup
-1. Clone the repository:
-   ```sh
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd fitness-tracker
-   ```
-3. Install dependencies:
-   ```sh
-   npm install
-   ```
-4. Start the development server:
-   ```sh
-   npm start
-   ```
+## 🚀 Quick Start
 
-## Usage
-- New users will go through the onboarding flow.
-- Once onboarded, users can navigate between different pages for tracking workouts, nutrition, hydration, sleep, and progress.
-- Toggle between light and dark themes for a better UI experience.
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/fitflow-ai.git
 
-## License
-This project is open-source under the MIT License.
+# Install dependencies
+npm install
 
-## Author
-Lalit Punjabi
+# Start development server
+npm run dev
+```
 
+## 🛠️ Built With
+
+- React
+- TypeScript
+- Tailwind CSS
+- React Router
+- Zustand
+- Framer Motion
+
+## 🤝 Contributing
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
